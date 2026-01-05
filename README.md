@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi I'm Your Name 👋👋👋  
+Studying Data Science & Analysis
 
-<!--
-**bbukkubbang/bbukkubbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Edu
+- 대학교 / 전공
+- AI / 데이터 교육과정
 
-Here are some ideas to get you started:
+### 🏆 Project
+| PERIOD | TITLE | SUBJECT |
+|------|------|------|
+| 2023.01 - 2023.03 | 프로젝트명 | 간단 설명 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skill
+R / Python / SQL / SPSS
+
+### 🔗 Link
+[GitHub](https://github.com/yourid) | [Blog](https://yourblog)
